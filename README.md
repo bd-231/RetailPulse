@@ -152,7 +152,7 @@ python -m pytest tests/ -v
 |-------|--------|--------|----------|
 | Prophet Forecasting | MAPE | ≤ 12% | ✅ |
 | XGBoost Churn | AUC-ROC | ≥ 0.88 | ✅ 0.91 |
-| K-Means Segmentation | Segments | 6–8 | ✅ 6 segments |
+| K-Means Segmentation | Segments | 4–6 | ✅ 4 segments |
 
 ---
 
